@@ -2,7 +2,7 @@
 name: Feature request
 about: Suggérer une nouvelle idée pour le projet
 title: 'Proposition : [Résumez votre idée ici]'
-labels: bug, enhancement, good first issue, invalid
+labels: enhancement
 assignees: theoherve
 
 ---
