@@ -11,4 +11,4 @@ Le but de ce projet est de :
 Cloner le projet afin de découvrir l'ensemble de l'univers à travers une *mini-jeu*
 
 ## Version actuelle
-Version 2.2
+Version 1.1.1
